@@ -448,5 +448,125 @@
   "text": "Suutei tsai is a traditional Mongolian milk tea made with green tea, milk, water, and salt.",
   "region": "Mongolia",
   "type": "Beverage"
-}
+  },
+  {
+    "id": "76",
+    "text": "Pho is a Vietnamese aromatic noodle soup made with beef or chicken broth simmered for hours with star anise, cinnamon, coriander, and cloves. The fragrant broth is served with rice noodles, fresh herbs (basil, cilantro, mint), beef or chicken, and bean sprouts. Rich in collagen from bone broth, providing joint health benefits. Often customized with lime juice and chili sauce. A UNESCO-recognized cultural dish representing Vietnamese culinary heritage and essential to Vietnamese food culture since the 20th century.",
+    "region": "Vietnam",
+    "type": "Noodle Soup",
+    "dietary": ["vegetarian-option", "gluten-free-option"],
+    "nutrition": "High protein, rich collagen, low fat, vitamin B-rich"
+  },
+  {
+    "id": "77",
+    "text": "Kimchi is a traditional Korean fermented vegetable dish primarily made with napa cabbage and Korean red chili flakes (gochugaru). The fermentation process creates beneficial probiotics that aid digestive health. Kimchi serves as a cornerstone of Korean cuisine, eaten with nearly every meal. Rich in vitamin C, vitamin K, and antioxidants. The fermentation enhances nutrient absorption and creates enzymes beneficial for gut health. Preparation involves salting, seasoning with garlic, ginger, fish sauce, and fermenting for days. Cultural significance: represents Korean identity and culinary tradition dating back centuries.",
+    "region": "Korea",
+    "type": "Fermented Vegetable",
+    "dietary": ["vegetarian-option", "gluten-free-option"],
+    "nutrition": "Probiotic-rich, high vitamin C, low calorie, immune-boosting"
+  },
+  {
+    "id": "78",
+    "text": "Quinoa salad is a nutrient-dense superfood containing all nine essential amino acids, making it a complete protein ideal for vegetarians and vegans. Prepared by cooking quinoa and combining it with fresh vegetables like bell peppers, cucumber, cherry tomatoes, and herbs (cilantro, parsley). Dressed with lemon juice and olive oil. Quinoa is naturally gluten-free and has a low glycemic index, making it suitable for blood sugar management. Rich in fiber (8g per cooked cup), magnesium, and manganese. Benefits include improved digestion, sustained energy, and muscle recovery. Originated in the Andes and has been cultivated for over 5,000 years.",
+    "region": "Andes/Peru",
+    "type": "Salad",
+    "dietary": ["vegan", "vegetarian", "gluten-free"],
+    "nutrition": "Complete protein, high fiber, low GI, mineral-rich"
+  },
+  {
+    "id": "79",
+    "text": "Salmon grilled with herbs is an excellent source of omega-3 fatty acids, particularly EPA and DHA, crucial for heart and brain health. Fresh Atlantic or wild-caught salmon is seasoned with Mediterranean herbs (rosemary, thyme, oregano), lemon, and olive oil, then grilled until flaky. A single serving provides 25-30g of protein and supports cardiovascular function. Rich in astaxanthin (a powerful antioxidant) that gives salmon its pink color and provides anti-inflammatory benefits. Grilling preserves nutrients while creating a delicious crust. High in selenium for thyroid function and vitamin D for bone health. Recommended for 2-3 servings per week for optimal health benefits.",
+    "region": "Mediterranean/Nordic",
+    "type": "Grilled Protein",
+    "dietary": ["gluten-free", "dairy-free", "paleo"],
+    "nutrition": "Omega-3 rich, high protein, low carb, heart-healthy"
+  },
+  {
+    "id": "80",
+    "text": "Acai bowl is a superfood breakfast made with frozen acai berries blended into a thick smoothie base, topped with granola, fresh berries (blueberries, strawberries), coconut flakes, and nut butter. Acai berries are native to the Amazon rainforest and contain anthocyanins (powerful antioxidants). One bowl provides antioxidant capacity equivalent to multiple servings of conventional fruits. Rich in fiber, healthy fats from coconut and nuts, and natural sweetness. No refined sugar needed due to fruit content. Provides sustained energy, supports brain function, and aids weight management. Customizable for dietary preferences: vegan with coconut yogurt, gluten-free with certified oats. Popular in health-conscious communities worldwide.",
+    "region": "Brazil/Amazon",
+    "type": "Breakfast Bowl",
+    "dietary": ["vegan-option", "vegetarian", "gluten-free-option"],
+    "nutrition": "Antioxidant-rich, high fiber, healthy fats, low GI"
+  },
+  {
+    "id": "81",
+    "text": "Tandoori tofu is an Indian preparation featuring firm tofu marinated in yogurt and tandoori spices (cumin, coriander, turmeric, garam masala, ginger, garlic). Cooked in a traditional tandoor oven or on grill, developing a charred exterior while maintaining tender interior. Provides 15-20g complete protein per serving with all essential amino acids. Tofu is a complete protein containing all nine amino acids, making it perfect for vegetarians and vegans. Low in calories (around 100 per 3.5oz) but high in iron and calcium. The spices provide anti-inflammatory and antioxidant benefits. Preparation method: marinate for 2-4 hours, grill for 8-10 minutes per side. Served with rice, naan, and yogurt sauce.",
+    "region": "India",
+    "type": "Grilled Vegetarian Protein",
+    "dietary": ["vegan", "vegetarian", "gluten-free"],
+    "nutrition": "Complete protein, low calorie, iron-rich, calcium-rich"
+  },
+  {
+    "id": "82",
+    "text": "Pad Thai is Thailand's national dish, a stir-fried noodle preparation made with thin rice noodles, protein (shrimp, chicken, or tofu), and vegetables (bell peppers, snap peas, carrots). Cooked quickly in a wok over high heat to maintain texture and nutrients. Sauce combines tamarind paste (tangy), fish sauce (umami), and palm sugar (sweetness), creating a perfect balance of flavors. Garnished with crushed peanuts, lime wedge, and Thai basil. Can be customized for dietary needs: vegan with tofu and soy sauce, gluten-free certified. The quick cooking method preserves vitamins and heat-sensitive nutrients. Contains both soluble and insoluble fiber from vegetables. Originated during Thai nationalism movement in 1930s-40s.",
+    "region": "Thailand",
+    "type": "Stir-Fried Noodles",
+    "dietary": ["vegetarian-option", "vegan-option", "gluten-free-option"],
+    "nutrition": "Balanced macros, low calorie, nutrient-dense vegetables"
+  },
+  {
+    "id": "83",
+    "text": "Paella is a Spanish one-pan rice dish from Valencia, made by cooking short-grain rice (Bomba or Arborio) in saffron-infused broth with protein (seafood, chicken, or rabbit) and vegetables. Preparation involves layering ingredients in a traditional paella pan and cooking over medium-high heat until a golden crust forms on the bottom (socarrat). Saffron provides distinctive color, earthy flavor, and antioxidant properties including crocin and safranal. Contains protein from seafood (omega-3s if using fish) and vegetables providing fiber and vitamins. Cooking method preserves nutrients while developing complex flavors. A communal dish traditionally shared family-style, representing Spanish hospitality and culinary pride for over 300 years.",
+    "region": "Spain/Valencia",
+    "type": "One-Pan Rice Dish",
+    "dietary": ["gluten-free-option"],
+    "nutrition": "Balanced carbs and protein, antioxidant-rich, seafood omega-3s"
+  },
+  {
+    "id": "84",
+    "text": "Greek salad combines fresh tomatoes, cucumbers, red onions, Kalamata olives, and feta cheese dressed with extra virgin olive oil and oregano. Represents Mediterranean diet principles promoting heart health and longevity. Extra virgin olive oil provides monounsaturated fats and polyphenols with anti-inflammatory properties. Feta contributes calcium for bone health and probiotics for digestion. Kalamata olives add healthy fats and mineral content (potassium, iron). Tomatoes provide lycopene, a powerful antioxidant for heart and prostate health. Oregano contains carvacrol with antimicrobial and anti-inflammatory properties. This simple preparation method preserves all heat-sensitive nutrients. Eaten in Mediterranean countries for millennia, associated with the longest-living populations.",
+    "region": "Greece",
+    "type": "Salad",
+    "dietary": ["vegetarian", "gluten-free"],
+    "nutrition": "Heart-healthy fats, antioxidant-rich, calcium-rich"
+  },
+  {
+    "id": "85",
+    "text": "Falafel is a Middle Eastern deep-fried or baked ball made from ground dried chickpeas, herbs (parsley, cilantro), spices (cumin, coriander, cayenne), and garlic. Typically served in pita bread with tahini sauce, hummus, fresh vegetables, and pickled turnips. High in plant-based protein (6-8g per falafel), fiber (5g+), and minerals like iron and zinc. Baking instead of frying reduces fat content while maintaining taste. Chickpeas provide slow-releasing carbohydrates (low glycemic index) for sustained energy. Traditionally eaten during Lent in Christian Middle Eastern communities and as a vegetarian staple. Can be made vegan with plant-based binding agents. Preparation involves chilling mixture before frying to prevent falling apart.",
+    "region": "Middle East/Levant",
+    "type": "Vegetarian Main Course",
+    "dietary": ["vegan", "vegetarian", "gluten-free-option"],
+    "nutrition": "High plant protein, high fiber, iron-rich, sustainable protein"
+  },
+  {
+    "id": "86",
+    "text": "Shakshuka is a Middle Eastern egg dish where eggs are poached in a spiced tomato sauce with peppers and onions. Preparation involves simmering tomatoes, garlic, cumin, paprika, and cayenne together until sauce thickens, then creating wells for eggs to poach gently. Served with crusty bread for dipping or pita. Combines eggs (complete protein, vitamin D, choline for brain health) with lycopene-rich tomatoes (heart and cancer-protective). Cumin aids digestion and blood sugar control. Low-carb preparation when served without bread. Customizable vegan version using silken tofu instead of eggs. Popular breakfast and dinner dish across Levant, Egypt, North Africa, and Israel, representing shared culinary heritage.",
+    "region": "Middle East/North Africa",
+    "type": "Egg Dish",
+    "dietary": ["vegetarian", "gluten-free-option"],
+    "nutrition": "Complete protein, antioxidant-rich, nutrient-dense"
+  },
+  {
+    "id": "87",
+    "text": "Hummus is a levantine chickpea dip made by blending cooked chickpeas with tahini (sesame seed paste), lemon juice, garlic, and olive oil. High in plant-based protein (3g per 2 tbsp), fiber (2g), and minerals including copper, manganese, and zinc. Tahini contributes calcium (100mg per serving) and antioxidant compounds. The combination of chickpeas and tahini creates a complete protein with all essential amino acids. Olive oil provides monounsaturated fats for heart health. Low glycemic index makes it suitable for blood sugar management. Fermented option available with probiotic benefits. Traditional staple across Levantine cuisine for centuries, now globally popular. Variations include roasted red pepper, garlic, or beet hummus.",
+    "region": "Levant",
+    "type": "Vegetarian Dip",
+    "dietary": ["vegan", "vegetarian", "gluten-free"],
+    "nutrition": "Complete plant protein, high fiber, heart-healthy fats"
+  },
+  {
+    "id": "88",
+    "text": "Buddha bowl is a customizable nutrient-dense meal combining grains (quinoa, brown rice), roasted vegetables (sweet potato, Brussels sprouts, broccoli), legumes (chickpeas, black beans), and protein sources (tempeh, tofu, grilled chicken, or fish). Dressed with tahini, lemon, or miso vinaigrette. Each component provides different nutrients creating synergistic health benefits. Grains provide B vitamins and fiber; vegetables provide antioxidants and minerals; legumes provide plant protein and resistant starch for gut health. Can be customized vegan, vegetarian, gluten-free, or paleo. Preparation involves batch cooking components for the week. Named for visual appeal resembling a full belly (buddhist philosophy). Popular among health-conscious communities for complete macronutrient balance and sustained energy.",
+    "region": "Modern/Global",
+    "type": "Balanced Meal Bowl",
+    "dietary": ["vegan-option", "vegetarian-option", "gluten-free-option"],
+    "nutrition": "Complete macros, antioxidant-rich, sustained energy"
+  },
+  {
+    "id": "89",
+    "text": "Ceviche is a Latin American seafood dish where raw fish or shellfish (typically sea bass, halibut, or shrimp) is cured and cooked by citrus juice (lime or lemon) instead of heat. The acid denatures fish proteins creating opaque, cooked texture. Mixed with diced red onion, cilantro, tomato, and chili peppers. Served with plantain chips, corn, or crackers. Rich in omega-3 fatty acids, high-quality protein (20g+ per serving), and vitamin D. Lime juice provides vitamin C (150mg+ per serving) for immune function. Low-calorie preparation (around 200 cal per serving). Originated in Peru over 2000 years ago, now popular throughout Latin America. Cultural significance represents coastal communities and maritime traditions.",
+    "region": "Peru/Latin America",
+    "type": "Seafood Appetizer",
+    "dietary": ["gluten-free", "dairy-free"],
+    "nutrition": "High omega-3, complete protein, low calorie, vitamin-rich"
+  },
+  {
+    "id": "90",
+    "text": "Gochujang paste is a fermented Korean chili paste made from red chili peppers, glutinous rice, soybeans, and salt, aged for months to years. Rich in probiotics from fermentation enhancing gut health and nutrient absorption. Contains capsaicin (active compound in chili peppers) increasing metabolism by 3-5%, aiding weight management. One tablespoon provides negligible calories but significant umami flavor. Used as base for Korean cuisine: gochujang bibimbap, gochujang noodles, marinades. Antioxidants in red chili peppers provide anti-inflammatory benefits. Supports cardiovascular health through improved blood flow. Contains beneficial bacteria strains: Lactobacillus and Bacillus. Deep red color indicates high astaxanthin content. Shelf-stable, improves with age like fine wine.",
+    "region": "Korea",
+    "type": "Fermented Paste/Condiment",
+    "dietary": ["vegan", "vegetarian", "gluten-free"],
+    "nutrition": "Probiotic-rich, metabolism-boosting, antioxidant-rich, low calorie"
+  }
 ]
